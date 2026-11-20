@@ -1,4 +1,4 @@
-# parseium-com
+# Parseium
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,123 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-parseium-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://parseium.com/
+Parseium provides AI‑enhanced web data extraction services, offering ready‑to‑use APIs and tools that turn any website into structured, typed data. Developers and AI agents can automate price monitoring, lead gathering, review aggregation, and more without maintaining their own scraping infrastructure. The platform includes pre‑built endpoints for popular sites, custom parser creation, batch processing, and daily data refreshes, all backed by usage credits and rate limits.
+
+**Areas:** AI · Data Extraction · Web Scraping · APIs · Automation
+
+## Parseium on APIs.io
+
+Everything profiled for Parseium is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/parseium-com/](https://apis.io/providers/parseium-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Parseium API](https://apis.io/apis/parseium-com/parseium-api/) — API reference for Parseium's AI‑enhanced web data extraction services.
+- [Parseium API](https://apis.io/apis/parseium-com/parseium-com-api/) — Parseium API as documented publicly: 9 operations. Contract generated from the documentation by API Evangelist (2026-11-20); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (5)
+
+The data models the API reads and writes.
+
+- [GetV1ApisResponse](https://apis.io/schemas/parseium-com/parseium-com-get-v1-apis-response/)
+- [GetV1AppStoreResponse](https://apis.io/schemas/parseium-com/parseium-com-get-v1-app-store-response/)
+- [GetV1CronsIdResponse](https://apis.io/schemas/parseium-com/parseium-com-get-v1-crons-id-response/)
+- [GetV1JobsIdResponse](https://apis.io/schemas/parseium-com/parseium-com-get-v1-jobs-id-response/)
+- [GetV1ParsersIdResponse](https://apis.io/schemas/parseium-com/parseium-com-get-v1-parsers-id-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Parseium Com Context](https://apis.io/jsonld/parseium-com/parseium-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Parseium API Rules](https://apis.io/rules/parseium-com/parseium-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Parseium Authentication](https://apis.io/security/parseium-com/parseium-com-authentication/)
+- [Parseium Domain Security](https://apis.io/security/parseium-com/parseium-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Parseium Plans Pricing](https://apis.io/plans/parseium-com/parseium-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.parseium.com/)
+- [Documentation](https://docs.parseium.com/)
+- [Getting started](https://docs.parseium.com/guides/getting-started)
+- [Pricing](https://www.parseium.com/pricing)
+- [Blog](https://www.parseium.com/blog)
+- [Terms of service](https://www.parseium.com/tos)
+- [Privacy policy](https://www.parseium.com/privacy-policy)
+- [GitHub](https://github.com/Parseium)
+
+## API Evangelist rating
+
+**Kin Score 48.2** — developing · rubric 0.28.0 · scored 2026-11-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 53.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 4.8 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 48.5 |
+
+**Agent readiness 20.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/parseium-com/](https://apis.io/providers/parseium-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Parseium: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/parseium-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
